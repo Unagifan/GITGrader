@@ -1,0 +1,6 @@
+dysphagia
+nausea
+vomiting
+constipation
+odynophagia
+diarrhea
